@@ -10,4 +10,4 @@ Fonts (Instrument Serif, Bebas Neue, JetBrains Mono) load from Google Fonts; the
 
 Run locally: `python3 -m http.server 8000` in this folder, then open http://localhost:8000
 
-Deploy later: push this folder to GitHub, import it in Vercel, preset "Other", no build command.
+
